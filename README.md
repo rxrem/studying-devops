@@ -1,2 +1,2 @@
 # studying-devops
-Test message for first commit
+Test message for first commit!
